@@ -1,0 +1,23 @@
+{
+  "name": "providentnisi",
+  "version": "1.0.0",
+  "description": "module.exports and module.import for browsers too",
+  "main": "common.js",
+  "keywords": [
+    "earum",
+    "repudiandae",
+    "exports",
+    "import",
+    "aut",
+    "browser"
+  ],
+  "author": "PatrickGaylord",
+  "license": "MIT",
+  "devDependencies": {
+    "uglify-js": "^2.7.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CharleyKuhlman/providentnisi.git"
+  }
+}
